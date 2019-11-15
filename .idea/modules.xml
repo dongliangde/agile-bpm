@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/platform/org/ab-org-core/ab-org-core.iml" filepath="$PROJECT_DIR$/platform/org/ab-org-core/ab-org-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/auth/ab-spring-security/ab-spring-security.iml" filepath="$PROJECT_DIR$/platform/auth/ab-spring-security/ab-spring-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agile-bpm.iml" filepath="$PROJECT_DIR$/agile-bpm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/agilebpm-component-j2cache/agilebpm-component-j2cache.iml" filepath="$PROJECT_DIR$/components/agilebpm-component-j2cache/agilebpm-component-j2cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/auth/auth.iml" filepath="$PROJECT_DIR$/platform/auth/auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-api/base-api.iml" filepath="$PROJECT_DIR$/base/base-api/base-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-core/base-core.iml" filepath="$PROJECT_DIR$/base/base-core/base-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-db/base-db.iml" filepath="$PROJECT_DIR$/base/base-db/base-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-rest/base-rest.iml" filepath="$PROJECT_DIR$/base/base-rest/base-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-form/bus/bus.iml" filepath="$PROJECT_DIR$/bus-form/bus/bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-form/bus/bus-api/bus-api.iml" filepath="$PROJECT_DIR$/bus-form/bus/bus-api/bus-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-form/bus/bus-core/bus-core.iml" filepath="$PROJECT_DIR$/bus-form/bus/bus-core/bus-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-form/bus-form.iml" filepath="$PROJECT_DIR$/bus-form/bus-form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-form/bus/bus-rest/bus-rest.iml" filepath="$PROJECT_DIR$/bus-form/bus/bus-rest/bus-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/components/components.iml" filepath="$PROJECT_DIR$/components/components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo-api/demo-api.iml" filepath="$PROJECT_DIR$/demo/demo-api/demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo-core/demo-core.iml" filepath="$PROJECT_DIR$/demo/demo-core/demo-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-form/form/form.iml" filepath="$PROJECT_DIR$/bus-form/form/form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-form/form/form-api/form-api.iml" filepath="$PROJECT_DIR$/bus-form/form/form-api/form-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-form/form/form-core/form-core.iml" filepath="$PROJECT_DIR$/bus-form/form/form-core/form-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bus-form/form/form-rest/form-rest.iml" filepath="$PROJECT_DIR$/bus-form/form/form-rest/form-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/org/org.iml" filepath="$PROJECT_DIR$/platform/org/org.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/org/org-api/org-api.iml" filepath="$PROJECT_DIR$/platform/org/org-api/org-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/platform.iml" filepath="$PROJECT_DIR$/platform/platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/sys/sys.iml" filepath="$PROJECT_DIR$/platform/sys/sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/sys/sys-api/sys-api.iml" filepath="$PROJECT_DIR$/platform/sys/sys-api/sys-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/sys/sys-core/sys-core.iml" filepath="$PROJECT_DIR$/platform/sys/sys-core/sys-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/sys/sys-rest/sys-rest.iml" filepath="$PROJECT_DIR$/platform/sys/sys-rest/sys-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>

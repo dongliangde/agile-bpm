@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ab-org-core" />
+        <module name="ab-spring-security" />
+        <module name="agilebpm-component-j2cache" />
+        <module name="base-api" />
+        <module name="base-core" />
+        <module name="base-db" />
+        <module name="base-rest" />
+        <module name="bus-api" />
+        <module name="bus-core" />
+        <module name="bus-rest" />
+        <module name="demo-api" />
+        <module name="demo-core" />
+        <module name="form-api" />
+        <module name="form-core" />
+        <module name="form-rest" />
+        <module name="org-api" />
+        <module name="sys-api" />
+        <module name="sys-core" />
+        <module name="sys-rest" />
+        <module name="web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ab-org-core" target="1.8" />
+      <module name="ab-spring-security" target="1.8" />
+      <module name="agile-bpm" target="1.8" />
+      <module name="agilebpm-component-j2cache" target="1.8" />
+      <module name="auth" target="1.8" />
+      <module name="base" target="1.8" />
+      <module name="base-api" target="1.8" />
+      <module name="base-core" target="1.8" />
+      <module name="base-db" target="1.8" />
+      <module name="base-rest" target="1.8" />
+      <module name="bus" target="1.8" />
+      <module name="bus-api" target="1.8" />
+      <module name="bus-core" target="1.8" />
+      <module name="bus-form" target="1.8" />
+      <module name="bus-rest" target="1.8" />
+      <module name="components" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo-api" target="1.8" />
+      <module name="demo-core" target="1.8" />
+      <module name="form" target="1.8" />
+      <module name="form-api" target="1.8" />
+      <module name="form-core" target="1.8" />
+      <module name="form-rest" target="1.8" />
+      <module name="org" target="1.8" />
+      <module name="org-api" target="1.8" />
+      <module name="platform" target="1.8" />
+      <module name="sys" target="1.8" />
+      <module name="sys-api" target="1.8" />
+      <module name="sys-core" target="1.8" />
+      <module name="sys-rest" target="1.8" />
+      <module name="web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
